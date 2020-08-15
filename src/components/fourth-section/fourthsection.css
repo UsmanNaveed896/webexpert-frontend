@@ -1,0 +1,72 @@
+.love-our-project{
+    margin-top: 7rem;
+}
+.love-our-project .section-description{
+    width:562px;
+}
+.owl-carousel{
+    margin-top: 8rem;
+}
+.owl-carousel .item{
+    transition: .2s ;
+}
+/* .owl-images{
+    width:540px;
+} */
+
+/* .zoom {
+    padding: 50px;
+    background-color: green;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  } */
+  
+  .lefthover:hover {
+    transform: scale(1.5); 
+    background-color: #352961;
+  }
+
+
+  .leftoverlay {
+    position: relative;
+    width: 540px;
+  }
+  
+  .owl-images {
+    width: 590px;
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom:0;
+    left: 0;
+    right: 0;
+    background-color:#352961 ;
+    overflow: hidden;
+    width: 540px;
+    height:0;
+    transition: .5s;
+    opacity: .9;
+  }
+  
+  .leftoverlay:hover .overlay {
+    bottom: 0;
+    height: 100%;
+  }
+  .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    opacity: 1!important;
+  }
+  .owl-dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}

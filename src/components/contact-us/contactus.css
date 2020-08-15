@@ -1,0 +1,56 @@
+.contact-us-section{
+    margin-top: 10rem;
+}
+.contact-us-sec{
+    margin-top: 20rem;
+}
+.contact-section-heading p{
+width: 550px;
+}
+.first{
+    justify-content: space-between;
+}
+.first input{
+    width: 230px!important;
+    height: 56px!important;
+    border: 2px solid #ced4da;
+    font-size: 17px;
+    color: #495057!important;
+    padding: 10px;
+}
+input#subject {
+    width: 526px;
+    height: 55px;
+    border: 2px solid #ced4da;
+    font-size: 17px;
+    color: #495057!important;
+    padding: 10px;
+}
+input#Email {
+    width: 526px;
+    height: 55px;
+    border: 2px solid #ced4da;
+    font-size: 17px;
+    color: #495057!important;
+    padding: 10px;
+}
+textarea#w3review {
+    border: 2px solid #ced4da;
+    font-size: 17px;
+    color: #495057!important;
+    padding: 10px;
+}
+button.send {
+    width: 250px;
+    height: 55px;
+    color: #fff;
+    background-color: #352961;
+    border-color: #352961;
+    font-size: 12px;
+    font-weight: 900;
+}
+.contactimages{
+    width:450px;
+    margin-top: 8rem;
+    margin-left: 4REM;
+}

@@ -1,0 +1,103 @@
+.nav-bar-left-side{
+    position: absolute;
+    height: 100vh;
+    min-height: 1200px;
+    width: 70%;
+    background: #352961;
+    border-bottom-right-radius: 200px;
+}
+.web-description{
+    padding:100px 50px 50px 50px;
+    margin-top: 20rem;
+}
+.headings{
+    margin-top: 20rem;
+}
+.headings p{
+    width:381px;
+}
+.headings p{
+    width:573px;
+}
+.btn-get-started {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 900;
+    padding:1rem 3rem 1rem 3rem;
+    background-color: transparent;
+    color: white;
+    border: 3px solid  #f8f9fa;
+}
+
+.carousel-control.left{
+    background: transparent!important;
+    font-size: 43px;
+    margin-top: 41rem;
+    left:17rem;
+    background: #dc3545!important;
+    opacity:1!important;
+    width: 12%!important;
+    top: auto!important;
+}
+.carousel-control.right{
+    background: transparent!important;
+    font-size: 43px;
+    margin-top: 41rem;
+    right:33.6rem;
+    background: #dc3545!important;
+    opacity:1!important;
+    width: 12%!important;
+    top: auto!important;
+}
+.carousel-indicators {
+    bottom:-52px;
+}
+.carousel-image{
+    width: 540px;
+    border-top-left-radius: 200px;
+}
+.cutted-image{
+    border-top-left-radius: 200px;
+    width: 540px;
+}
+.site-navbar{
+    margin-top: 1.5rem;
+    padding-left: 7rem;
+}
+.site-navigation{
+    width:50%;
+}
+.site-menu{
+    justify-content: space-around;
+}
+.site-logo{
+    position: relative;
+    font-weight: 900;
+    font-size: 20px;
+    font-family: oswald,sans-serif;
+    letter-spacing: .2rem;
+    color: white;
+    text-transform: uppercase!important;
+}
+.pricing-button{
+   float: right!important;
+}
+.price {
+    margin-right: 4rem;
+    margin-top: 1rem;
+}
+.site-navigation a:hover {
+    border-bottom: 3px solid red;
+  }
+  
+  .site-navigation a.active {
+    border-bottom: 3px solid red;
+  }
+  .site-navigation a{
+      cursor: pointer;
+  }
+
+
+
+
+

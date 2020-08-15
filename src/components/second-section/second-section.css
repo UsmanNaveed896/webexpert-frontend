@@ -1,0 +1,63 @@
+.love-our-work{
+    margin-top: 40rem;
+    max-width: 1885px!important;
+}
+.our-work{
+    margin-top: 20rem!important;
+    justify-content: center;
+}
+img.quadcopter {
+    width: 450px;
+}
+.our-work-description p{
+width: 420px;
+} 
+.check-list{
+    flex-direction: column;
+}
+.list{
+    color: gray!important;
+}
+.box{
+    position: absolute;
+    background: #352961;
+    bottom: -23%;
+    right: -25%;
+    padding: 30px;
+    max-width: 350px;
+    color: white;
+}
+.Templates p{
+ width: 236px;
+}
+
+
+.counter
+{
+    text-align: center;
+    margin-top: 10rem;
+}
+.employees,.customer,.design,.order
+{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.counter-count
+{
+    border-radius: 50%;
+    position: relative;
+    text-align: center;
+    line-height: 92px;
+    width: 92px;
+    height: 92px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display: inline-block;
+}
+
+.employee-p,.customer-p,.order-p,.design-p
+{
+    line-height: 34px;
+}

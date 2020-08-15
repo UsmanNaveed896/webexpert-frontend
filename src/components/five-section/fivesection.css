@@ -1,0 +1,60 @@
+.five-section{
+    margin-top: 15rem;
+    background-color: #f1f3f8;
+    height: 120vh;
+}
+.five-section .our-approach-starts{
+    margin-top: 10rem;
+}
+.five-section-cards{
+    justify-content: space-between;
+}
+.five-section .five-section-heading p{
+width: 534px;
+}
+.cards{
+    background-color: white;
+    padding: 30px;
+    margin-top: 10rem;
+    transition: transform 1s;
+     transform-style: preserve-3d;
+     margin-left: 7rem;
+}
+.cardsA{
+    background-color: white;
+    padding: 30px;
+    margin-top: 10rem;
+    transition: transform 1s;
+     transform-style: preserve-3d;
+}
+.cards h1{
+    text-align: center;
+}
+.cards p{
+    text-align: center;
+    width: 294px;
+}
+.cards .icon{
+    text-align: center;
+    font-size: 35px;
+    color: #352961;
+}
+.five-section-cards:hover .cards  {
+    transform: scale(1.1);
+  }
+
+  .cardsA h1{
+    text-align: center;
+}
+.cardsA p{
+    text-align: center;
+    width: 294px;
+}
+.cardsA .icon{
+    text-align: center;
+    font-size: 35px;
+    color: #352961;
+}
+.five-section-cards:hover .cardsA  {
+    transform: scale(1.1);
+  }

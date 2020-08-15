@@ -1,0 +1,96 @@
+/* fontsize */
+.fnt-16{
+    font-size: 16px;
+}
+.fnt-s-20{
+    font-size: 20px;
+}
+.fnt-19{
+    font-size: 19px;
+}
+.fnt-20{
+    font-size: 20px;
+}
+.fnt-24{
+    font-size: 24px;
+}
+.fnt-35{
+    font-size: 35px;
+}
+.fnt-48{
+    font-size: 47px;
+}
+.fnt-3rem{
+    font-size: 3rem;
+}
+.fnt-1rem{
+    font-size:1.1rem;
+}
+.fnt-17{
+    font-size: 17.6px;
+}
+.fnt-56{
+    font-size: 56px;
+}
+.f-fm{
+    font-family:"Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.f-fm-2{
+    font-family: oswald,sans-serif;
+}
+/* colors */
+.white-clr{
+    color:#FFF;
+}
+.greyish-white-clr{
+    color:rgba(255,255,255,.5);
+}
+.black-color{
+    color:#000000;
+}
+.dark-blue{
+    color:#352961;
+}
+.gray-color{
+    color: gray;
+}
+.green-color{
+    color:#28a745;
+}
+.red-color{
+    color:#dc3545;
+}
+.light-gray{
+    color:#808080;
+}
+
+/* Font-weight */
+.f-w-900{
+    font-weight: 900;
+}
+.f-w-800{
+    font-weight: 800;
+}
+.f-w-300{
+    font-weight: 300;
+}
+.f-w-600{
+    font-weight: 600;
+}
+.f-w-700{
+    font-weight: 700;
+}
+/* Common Button */
+.btn-common {
+    padding: 13px 30px 13px 30px;
+    color: white;
+    border-radius: 3px;
+    font-size: 15px;
+}
+.btn-red{
+    background-color: #dc3545;
+    border: 1px solid #dc3545;
+    padding:10px 20px;
+    border-radius: 0.25rem;
+    color:#fff;
+}
