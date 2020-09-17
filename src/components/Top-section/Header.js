@@ -26,7 +26,7 @@ export default () => {
                         <p className="f-fm fnt-20 black-color">Pricing</p>
                     </div>
                     <div className="mt-2 mr-5">
-                        <button className="contact-us btn-red fnt-20">Contact us</button>
+                        <button className="contact-us btn-red fnt-20"><a href="https://stylish132.000webhostapp.com/">Log In</a></button>
                     </div>
                 </div>
                 <div className=" col-md-8 nav-bar-left-side ">
